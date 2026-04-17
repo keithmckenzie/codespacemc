@@ -43,7 +43,7 @@ Please note that you must leave the codespace open in your browser. If you close
 
 To save your progress you can use /stop ingame to stop the server or run stop while the Minecraft server is running. After this you can commit changes and sync to main. 
 
-*your repository should be public as Minecraft server logs log players IP addresses. 
+*your repository should be private as Minecraft server logs log players IP addresses. 
 
 ## Credits
 
