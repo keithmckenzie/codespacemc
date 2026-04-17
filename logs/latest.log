@@ -105,3 +105,10 @@
 [19:37:58] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6583581897575326071)
 [19:37:58] [Server thread/INFO]: Done (2.665s)! For help, type "help" or "?"
 [19:37:58] [Server thread/INFO]: Timings Reset
+[19:48:39] [Server thread/INFO]: Stopping the server
+[19:48:39] [Server thread/INFO]: Stopping server
+[19:48:39] [Server thread/INFO]: Saving players
+[19:48:39] [Server thread/INFO]: Saving worlds
+[19:48:39] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[19:48:40] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[19:48:40] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
