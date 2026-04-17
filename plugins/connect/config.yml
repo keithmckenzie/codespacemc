@@ -1,6 +1,6 @@
 # The endpoint name of this server/proxy instance registered on startup with the Connect network.
 # Default is a random string. You can change it to a custom endpoint name.
-endpoint: smpgh
+endpoint: 
 
 # This setting is only relevant if you want to allow cracked players to join.
 # This should not be irritated by offline-mode servers behind an online-mode proxy, keep this setting disabled.
