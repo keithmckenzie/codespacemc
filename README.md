@@ -17,6 +17,7 @@ A fully containerized Minecraft server running on PaperMC server software for ve
 
 - A GitHub account
 - This guide
+- By running th server, you agree to Mojang's EULA for Minecraft.
 
 ### Quick Start
 
